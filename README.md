@@ -1,4 +1,4 @@
-<h1 align="center">Projeto de CRUD com Árvore Binária - Estrutura de Dados</h1>
+# Projeto de CRUD com Árvore Binária - Estrutura de Dados
 
   ## Descrição
 
