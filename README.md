@@ -1,6 +1,6 @@
-# Projeto de CRUD com Árvore Binária - Estrutura de Dados
+<h1 align="center">Projeto de CRUD com Árvore Binária - Estrutura de Dados</h1>
 
-## Descrição
+  ## Descrição
 
 Projeto desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas no Biopark, como conclusão da disciplina de Estrutura de Dados. Este CRUD utiliza uma Árvore Binária com Balanceamento Estático para operações eficientes de adição, remoção, atualização e listagem de ciclistas em uma competição de ciclismo.
 
