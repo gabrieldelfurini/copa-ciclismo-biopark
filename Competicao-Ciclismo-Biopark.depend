@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1701223613 source:c:\users\computador\documents\2semestre\estrutura-de-dados\projetocrud-arvore\competicao-ciclismo-biopark\competicao-ciclismo-biopark\criararvbin.c
+	"funcoes.h"
+	<stdio.h>
+
+1701118543 c:\users\computador\documents\2semestre\estrutura-de-dados\projetocrud-arvore\competicao-ciclismo-biopark\competicao-ciclismo-biopark\funcoes.h
+
+1700927898 source:c:\users\computador\documents\2semestre\estrutura-de-dados\projetocrud-arvore\competicao-ciclismo-biopark\competicao-ciclismo-biopark\gerarnumerodeinscricaoconformecategoria.c
+	"funcoes.h"
+	<stdio.h>
+
+1701119079 source:c:\users\computador\documents\2semestre\estrutura-de-dados\projetocrud-arvore\competicao-ciclismo-biopark\competicao-ciclismo-biopark\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes.h"
+
+1701031029 source:c:\users\computador\documents\2semestre\estrutura-de-dados\projetocrud-arvore\competicao-ciclismo-biopark\competicao-ciclismo-biopark\funcoes.c
+	"funcoes.h"
+	<stdio.h>
+
+1701224556 source:c:\users\computador\documents\2semestre\estrutura-de-dados\projetocrud-arvore\competicao-ciclismo-biopark\competicao-ciclismo-biopark\percorreinordem.c
+	"funcoes.h"
+	<stdio.h>
+
+1701223329 source:c:\users\computador\documents\2semestre\estrutura-de-dados\projetocrud-arvore\competicao-ciclismo-biopark\competicao-ciclismo-biopark\atualizarinscricaodepoisdaatualizacao.c
+	"funcoes.h"
+	<stdio.h>
+
+1701224332 source:c:\users\computador\documents\2semestre\estrutura-de-dados\projetocrud-arvore\competicao-ciclismo-biopark\competicao-ciclismo-biopark\insere_arvbin.c
+	"funcoes.h"
+	<stdio.h>
+
+1700928026 source:c:\users\computador\documents\2semestre\estrutura-de-dados\projetocrud-arvore\competicao-ciclismo-biopark\competicao-ciclismo-biopark\libera_no.c
+	"funcoes.h"
+	<stdio.h>
+
+1700928055 source:c:\users\computador\documents\2semestre\estrutura-de-dados\projetocrud-arvore\competicao-ciclismo-biopark\competicao-ciclismo-biopark\libera_arvbin.c
+	"funcoes.h"
+	<stdio.h>
+
+1701223251 source:c:\users\computador\documents\2semestre\estrutura-de-dados\projetocrud-arvore\competicao-ciclismo-biopark\competicao-ciclismo-biopark\atualizarciclista.c
+	"funcoes.h"
+	<stdio.h>
+
+1701222840 source:c:\users\computador\documents\2semestre\estrutura-de-dados\projetocrud-arvore\competicao-ciclismo-biopark\competicao-ciclismo-biopark\antecessor.c
+	"funcoes.h"
+	<stdio.h>
+
+1701224153 source:c:\users\computador\documents\2semestre\estrutura-de-dados\projetocrud-arvore\competicao-ciclismo-biopark\competicao-ciclismo-biopark\excluirciclista.c
+	"funcoes.h"
+	<stdio.h>
+	<stdlib.h>
+
+1700932976 source:c:\users\computador\documents\2semestre\estrutura-de-dados\projetocrud-arvore\competicao-ciclismo-biopark\competicao-ciclismo-biopark\percorrepreordem.c
+	"funcoes.h"
+	<stdio.h>
+
+1701222750 source:c:\users\computador\documents\2semestre\estrutura-de-dados\projetocrud-arvore\competicao-ciclismo-biopark\competicao-ciclismo-biopark\alturaarvbin.c
+	"funcoes.h"
+	<stdio.h>
+
+1701224616 source:c:\users\computador\documents\2semestre\estrutura-de-dados\projetocrud-arvore\competicao-ciclismo-biopark\competicao-ciclismo-biopark\preencherlista.c
+	"funcoes.h"
+	<stdio.h>
+
+1700933087 source:c:\users\computador\documents\2semestre\estrutura-de-dados\projetocrud-arvore\competicao-ciclismo-biopark\competicao-ciclismo-biopark\construirarvorebalanceada.c
+	"funcoes.h"
+	<stdio.h>
+
+1701223515 source:c:\users\computador\documents\2semestre\estrutura-de-dados\projetocrud-arvore\competicao-ciclismo-biopark\competicao-ciclismo-biopark\balanceararvore.c
+	"funcoes.h"
+	<stdio.h>
+

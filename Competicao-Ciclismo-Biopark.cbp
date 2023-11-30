@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Competicao-Ciclismo-Biopark" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Competicao-Ciclismo-Biopark" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Competicao-Ciclismo-Biopark" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="alturaArvBin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="antecessor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="atualizarCiclista.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="atualizarInscricaoDepoisDaAtualizacao.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="balancearArvore.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="construirArvoreBalanceada.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="criarArvBin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="excluirCiclista.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funcoes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funcoes.h" />
+		<Unit filename="gerarNumeroDeInscricaoConformeCategoria.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="insere_ArvBin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libera_ArvBin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libera_NO.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="percorreInOrdem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="percorrePreOrdem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="preencherLista.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
